@@ -1,6 +1,6 @@
 # 🚀 RAG & LangChain Exploration
 
-Welcome to the **RAG & LangChain Exploration** repository! This project is a hands-on deep dive into **Retrieval-Augmented Generation (RAG)**, **LangChain**, **Langsmith** ,**LangServe**, and **LangGraph**covering fundamental and advanced concepts through interactive Jupyter notebooks and Python scripts.
+Welcome to the **RAG & LangChain Exploration** repository! This project is a hands-on deep dive into **Retrieval-Augmented Generation (RAG)**, **LangChain**, **Langsmith** ,**LangServe**, and **LangGraph** covering fundamental and advanced concepts through interactive Jupyter notebooks and Python scripts.
 
 ## 📌 Project Overview
 
